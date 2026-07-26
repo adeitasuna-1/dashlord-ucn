@@ -352,8 +352,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.autoentrepreneur.urssaf.fr/193.178.136.237",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "66 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (59)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -366,7 +366,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "www.autoentrepreneur.urssaf.fr/193.178.136.237",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2026-09-23 23:59"
           }
 ,         {
@@ -983,6 +983,6 @@
               "ip"           : "www.autoentrepreneur.urssaf.fr/193.178.136.237",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "79"
+              "finding"      : "110"
           }
 ]
