@@ -1,8 +1,8 @@
 {
 	"@programName": "ZAP",
 	"@version": "2.17.0",
-	"@generated": "Sun, 26 Jul 2026 04:03:44",
-	"created": "2026-07-26T04:03:44.326833331Z",
+	"@generated": "Sun, 2 Aug 2026 04:02:24",
+	"created": "2026-08-02T04:02:24.147120636Z",
 	"insights":[
 		{
 			"level": "Info",
@@ -50,7 +50,7 @@
 			"site": "https://autoentrepreneur.urssaf.fr",
 			"key": "insight.response.slow",
 			"description": "Percentage of slow responses",
-			"statistic": "50"
+			"statistic": "100"
 		}
 	],
 	"site":[ 
