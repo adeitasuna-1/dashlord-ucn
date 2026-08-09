@@ -3,15 +3,15 @@
         "width": 1920,
         "height": 1080,
         "url": "https://www.urssaf.fr",
-        "size": 7504.722,
-        "nodes": 4538,
+        "size": 7502.402,
+        "nodes": 4547,
         "requests": 77,
         "grade": "F",
         "score": 20.0,
         "ges": 2.6,
         "water": 3.9,
         "ecoindex_version": "5.4.2",
-        "date": "2026-08-02 03:28:38.911769",
+        "date": "2026-08-09 02:06:40.412325",
         "page_type": null
     }
 ]
