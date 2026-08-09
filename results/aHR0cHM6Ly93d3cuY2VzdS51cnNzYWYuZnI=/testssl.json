@@ -352,8 +352,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (30)"
+              "severity"     : "HIGH",
+              "finding"      : "expires < 30 days (23)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -366,7 +366,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
-              "severity"     : "MEDIUM",
+              "severity"     : "HIGH",
               "finding"      : "2026-09-01 23:59"
           }
 ,         {
@@ -1025,6 +1025,6 @@
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "55"
+              "finding"      : "98"
           }
 ]
