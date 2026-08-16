@@ -353,7 +353,7 @@
               "ip"           : "www.urssaf.fr/193.178.136.246",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (52)"
+              "finding"      : "expires < 60 days (45)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -983,6 +983,6 @@
               "ip"           : "www.urssaf.fr/193.178.136.246",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "87"
+              "finding"      : "93"
           }
 ]
