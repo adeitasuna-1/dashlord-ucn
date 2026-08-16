@@ -353,7 +353,7 @@
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
               "severity"     : "HIGH",
-              "finding"      : "expires < 30 days (23)"
+              "finding"      : "expires < 30 days (16)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1025,6 +1025,6 @@
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "98"
+              "finding"      : "53"
           }
 ]
