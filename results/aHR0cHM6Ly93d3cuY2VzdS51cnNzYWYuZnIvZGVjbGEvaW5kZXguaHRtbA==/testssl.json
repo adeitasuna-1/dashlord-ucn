@@ -269,7 +269,7 @@
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0669A1E3D52F0959428C699AEDC4E026"
+              "finding"      : "07D32D3EA2051987E3DC8F9218006602"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "8136B2ED09A329D135A88E1731149D4749A13BE8"
+              "finding"      : "54D94B9E98EA67EDD5D4B230EE19350072C71A45"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "5B205CE1ABFD5D4436401770F97090B81E45F3FF86533B98F706355314A695F2"
+              "finding"      : "B085A9A070E6739ACFF86CD2E02012C929293601ABABD1096D55A71A9580C7DE"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\n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\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\n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\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -352,22 +352,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "expires < 30 days (9)"
+              "severity"     : "OK",
+              "finding"      : "188 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2025-09-02 00:00"
+              "finding"      : "2026-08-20 00:00"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "2026-09-01 23:59"
+              "severity"     : "OK",
+              "finding"      : "2027-03-06 23:59"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -607,7 +607,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=5B205CE1ABFD5D4436401770F97090B81E45F3FF86533B98F706355314A695F2"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=B085A9A070E6739ACFF86CD2E02012C929293601ABABD1096D55A71A9580C7DE"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -983,6 +983,6 @@
               "ip"           : "www.cesu.urssaf.fr/193.178.136.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "94"
+              "finding"      : "97"
           }
 ]
