@@ -353,7 +353,7 @@
               "ip"           : "autoentrepreneur.urssaf.fr/193.178.136.237",
               "port"         : "443",
               "severity"     : "HIGH",
-              "finding"      : "expires < 30 days (24)"
+              "finding"      : "expires < 30 days (17)"
           }
 ,         {
               "id"           : "cert_notBefore",
